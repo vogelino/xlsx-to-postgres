@@ -7,7 +7,7 @@
         "baseUrl": "./src"
     },
     "include": [
-        "src/**/*.ts"
+      "src/**/*.ts", "api/serverless.ts"
     ],
     "exclude": [
         "node_modules"
