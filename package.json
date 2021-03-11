@@ -17,7 +17,11 @@
   "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com/)",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "7.13.10",
+    "@babel/preset-env": "7.13.10",
+    "@babel/preset-typescript": "7.13.0",
     "@types/busboy": "^0.2.3",
+    "@types/jest": "26.0.20",
     "@types/node": "14.14.31",
     "@typescript-eslint/eslint-plugin": "4.15.2",
     "@typescript-eslint/parser": "4.15.2",
